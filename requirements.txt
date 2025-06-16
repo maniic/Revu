@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+transformers
+sentence-transformers
+streamlit
+arxiv
+scikit-learn
+numpy
+matplotlib
+python-dotenv
