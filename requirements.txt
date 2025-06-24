@@ -1,11 +1,12 @@
-fastapi
-uvicorn
+fastapi[standard]
+uvicorn[standard]
 pdfplumber
-transformers
+transformers[torch]
 sentence-transformers
 streamlit
 arxiv
 scikit-learn
 numpy
 matplotlib
+pandas
 python-dotenv
